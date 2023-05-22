@@ -57,7 +57,7 @@ class CustomCard extends StatelessWidget {
                     Text(
                       date,
                       style:
-                      TextStyle(color: Colors.white30, fontSize: 12, fontWeight: FontWeight.w500),
+                      TextStyle(color: Color(0xFFDADCE5), fontSize: 12, fontWeight: FontWeight.w500),
                     )
                   ],
                 ),
